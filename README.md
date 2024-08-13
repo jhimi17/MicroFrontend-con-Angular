@@ -7,7 +7,10 @@ Una aplicación de gestión de tareas. El sistema tendrá dos microfrontends:
 * Backend:
 El backend proporcionará los siguientes endpoints:
 
-GET /tasks: Obtendrá la lista de tareas.;
-POST /tasks: Agregará una nueva tarea.;
-DELETE /tasks/:id: Eliminará una tarea específica.;
-GET /tasks/stats: Obtendrá estadísticas sobre las tareas.;
+GET /tasks: Obtendrá la lista de tareas.
+
+POST /tasks: Agregará una nueva tarea.
+
+DELETE /tasks/:id: Eliminará una tarea específica.
+
+GET /tasks/stats: Obtendrá estadísticas sobre las tareas.
